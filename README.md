@@ -54,3 +54,29 @@ University of Illinois Chicago
 
 **CIF — Crazyflie Isaac Framework**  
 *Develop. Simulate. Deploy.*
+
+
+
+
+
+🎥 Demo
+Multi-Drone Navigation with Randomized Start and Goal Positions
+
+This demonstration shows four Crazyflie drones operating simultaneously in NVIDIA Isaac Sim using CIF.
+
+Each drone is initialized with a randomized starting position and assigned a randomized target position within the environment.
+
+The simulation visualizes:
+
+🚁 Four simultaneously simulated Crazyflie drones
+🎯 Randomized target positions represented by spheres
+📡 Multi-Ranger sensor measurements around each drone
+➖ Drone-to-target lines for visualizing individual navigation objectives
+🤖 Independent navigation toward assigned targets
+
+▶️ Watch the demo on YouTube
+
+
+
+
+Multi-drone navigation demonstration using the Crazyflie Isaac Framework (CIF).
